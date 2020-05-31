@@ -1,0 +1,5 @@
+*.tokens
+*.ipynb
+*.xlsx
+*.csv
+*.idea
